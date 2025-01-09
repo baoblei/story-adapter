@@ -7,7 +7,7 @@ from ip_adapter import StoryAdapterXL
 import os
 import random
 import argparse
-
+import time
 
 story1 = [
 "a little white rabbit wearing green suit and two little white rabbits in a room.",
